@@ -1,0 +1,28 @@
+generated: '2026-09-28'
+method: derived
+source:
+  - url: https://www.betr.app/terms-and-conditions/betr-privacy-policy
+    http_status: 200
+    fetched: '2026-09-28'
+signals:
+  data_subject_request:
+    url: https://www.betr.app/terms-and-conditions/betr-privacy-policy
+    section: "6. YOUR RIGHTS AND CHOICES"
+    note: "Indicates user rights to object or request restriction of processing."
+    evidence:
+      - quote: "6. YOUR RIGHTS AND CHOICES Depending on the jurisdiction in which you live, you may be entitled, in accordance with applicable law, to object to or request restriction of processing of your information,"
+  global_privacy_control:
+    url: https://www.betr.app/terms-and-conditions/betr-privacy-policy
+    note: "Supports Global Privacy Control opt-out signal."
+    evidence:
+      - quote: "You may exercise this choice by navigating to Account Details in the Betr app and switching off the Targeted Advertising toggle under Data Preferences. We also will support the Global Privacy Control where required by law."
+  transparency_report:
+    url: https://www.betr.app/terms-and-conditions/betr-privacy-policy
+    note: "Describes incident notification and legal disclosure practices."
+    evidence:
+      - quote: "We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, safety, and security of Betr, our affiliates, users, or the public."
+  data_retention:
+    url: https://www.betr.app/terms-and-conditions/betr-privacy-policy
+    note: "States data retention limitation policy."
+    evidence:
+      - quote: "Information will be retained only for so long as reasonably necessary and proportionate for the purposes set out above based on criteria such as the length of t"

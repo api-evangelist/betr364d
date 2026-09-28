@@ -1,23 +1,82 @@
 aid: betr364d
+
 name: Betr364d
-description: 'Betr364d is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/62ed9b0abe9f7f955b2c20a8/62f1150838e3e464b61bde40_betr%20OG%20Image.jpg
+
+description: Betr is the world’s first real money gaming super app, offering daily fantasy, social sportsbook, social casino, and arcade experiences.
+  Users can download the app to participate in real‑money gaming across a variety of sports and games, with high‑payout potential and a social
+  community. The platform emphasizes responsible gaming and provides extensive help resources.
+
 url: https://raw.githubusercontent.com/api-evangelist/betr364d/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-28 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-28'
+
 modified: '2026-09-28'
+
 tags:
+- Gaming
+- Sports
+- Social
+- Betting
+- App
 - Company
-apis: []
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/betr364d-llms.txt
+- type: SecurityTxt
+  url: well-known/betr364d-help-security.txt
+- type: WellKnown
+  url: well-known/betr364d-well-known.yml
+- type: Hosts
+  url: hosts/betr364d-hosts.yml
+- type: Vendors
+  url: vendors/betr364d-vendors.yml
+- type: DomainSecurity
+  url: security/betr364d-domain-security.yml
 - type: Website
-  url: https://equityzen.com/company/betr364d
+  url: https://www.betr.app
+- type: Documentation
+  url: https://help.betr.app/en/
+- type: Support
+  url: https://help.betr.app/en/
+- type: PrivacyPolicy
+  url: https://www.betr.app/terms-and-conditions/betr-privacy-policy
+
+apis:
+- name: Betr API
+  description: API documentation for Betr platform
+  humanURL: https://help.betr.app/en/
+  baseURL: null
+  aid: betr364d:betr-api
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: Documentation is available at https://help.betr.app/en/ but no machine‑readable OpenAPI, GraphQL, AsyncAPI or other contract was found.
+  evidence:
+  - url: https://help.betr.app/en/
+    status: 200
+  checked: '2026-09-28'
+x-enrichment:
+  date: '2026-09-28'
+  status: enriched
+  artifacts_added: 9
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

@@ -1,0 +1,195 @@
+# Betr Help Center
+
+> Help center for Betr
+
+## English
+
+### Account
+
+- [Can I share my account, device, or payment method with someone else?](https://help.betr.app/en/articles/15895109-can-i-share-my-account-device-or-payment-method-with-someone-else.md): Policy covering account, device, and payment method sharing restrictions, and the consequences of violating them.
+- [Why can't I verify my account, and what happens next?](https://help.betr.app/en/articles/16785083-why-can-t-i-verify-my-account-and-what-happens-next.md): Everything about verification troubleshooting: why it fails, what happens next, accepted documents, and how long it takes.
+- [How old do I have to be to play on Betr?](https://help.betr.app/en/articles/9461896-how-old-do-i-have-to-be-to-play-on-betr.md): Age Requirement
+- [Do I need to verify my identity?](https://help.betr.app/en/articles/9461786-do-i-need-to-verify-my-identity.md): Verification information
+- [Trying to sign up but not proceeding past sign up screen.](https://help.betr.app/en/articles/9461783-trying-to-sign-up-but-not-proceeding-past-sign-up-screen.md): Unable to sign up
+- [What is the purpose of a sign-up code?](https://help.betr.app/en/articles/9461934-what-is-the-purpose-of-a-sign-up-code.md): Information on sign up codes
+- [Is it free to sign up?](https://help.betr.app/en/articles/9461784-is-it-free-to-sign-up.md): Free to sign up
+- [Why am I not getting the text verification code?](https://help.betr.app/en/articles/9461781-why-am-i-not-getting-the-text-verification-code.md): Text Verification Code
+- [Why does the app keep signing me out of my account?](https://help.betr.app/en/articles/9461898-why-does-the-app-keep-signing-me-out-of-my-account.md): Account log-ins - biometrics
+- [How to switch between products](https://help.betr.app/en/articles/9461961-how-to-switch-between-products.md): Switching between Betr Products
+- [How can I update my Account Information?](https://help.betr.app/en/articles/16786490-how-can-i-update-my-account-information.md): Update your email, phone number, or address — plus what to do if you're locked out and can't remember your login info.
+- [How can I reset my Password?](https://help.betr.app/en/articles/16786946-how-can-i-reset-my-password.md): Reset your password whether you're logged in or not, and what to do if the reset email never arrives.
+- [My account is blocked or under review — what happens next?](https://help.betr.app/en/articles/16787147-my-account-is-blocked-or-under-review-what-happens-next.md): Why your account might be temporarily under review, stuck loading, or suspended — and what to do about each.
+- [What should I do if I receive an unrecognized login notification on my Betr account?](https://help.betr.app/en/articles/16787411-what-should-i-do-if-i-receive-an-unrecognized-login-notification-on-my-betr-account.md): What to do if you get an unrecognized login notification, and the extra steps to take if you believe your account was actually compromised.
+- [How can I close or re-open my Betr account?](https://help.betr.app/en/articles/16787977-how-can-i-close-or-re-open-my-betr-account.md): How to close your Betr account, and the rules around requesting to reopen it afterward.
+- [What should I do if I receive a maintenance message on the Betr app?](https://help.betr.app/en/articles/11879685-what-should-i-do-if-i-receive-a-maintenance-message-on-the-betr-app.md)
+- [How can I view my profit/loss statement?](https://help.betr.app/en/articles/9461911-how-can-i-view-my-profit-loss-statement.md)
+- [Can I set up Two Factor Authentication?](https://help.betr.app/en/articles/9461797-can-i-set-up-two-factor-authentication.md): Two-factor authentication
+- [Where can I find my transaction history?](https://help.betr.app/en/articles/9461796-where-can-i-find-my-transaction-history.md): Transaction History
+- [How can I retrieve my funds if my account is restricted or closed?](https://help.betr.app/en/articles/12015173-how-can-i-retrieve-my-funds-if-my-account-is-restricted-or-closed.md)
+- [Can I change my legal name or add a middle name after signing up?](https://help.betr.app/en/articles/12015186-can-i-change-my-legal-name-or-add-a-middle-name-after-signing-up.md)
+- [Can I hide the gaming products from the home screen?](https://help.betr.app/en/articles/14712083-can-i-hide-the-gaming-products-from-the-home-screen.md): Proudct Visibility
+
+### Payments
+
+- [How do I deposit or purchase funds?](https://help.betr.app/en/articles/16773222-how-do-i-deposit-or-purchase-funds.md): Everything about depositing to your Fantasy Wallet or making a purchase in your Social Wallet — payment methods, limits, troubleshooting declined transactions, and linking new methods.
+- [How do I withdraw or redeem my funds?](https://help.betr.app/en/articles/9461921-how-do-i-withdraw-or-redeem-my-funds.md): Everything about withdrawing from your Fantasy Wallet or redeeming from your Social Wallet — payment methods, Required Distribution, timing, and troubleshooting.
+- [Can I deposit and/or withdrawal while I am not an eligible state?](https://help.betr.app/en/articles/9461970-can-i-deposit-and-or-withdrawal-while-i-am-not-an-eligible-state.md): Funding betr account while out of state
+- [Why is my card information saved?](https://help.betr.app/en/articles/9461809-why-is-my-card-information-saved.md): Card information
+- [How can I remove a debit card?](https://help.betr.app/en/articles/13920467-how-can-i-remove-a-debit-card.md): Remove Debit card
+- [What are Betr Cash, Betr Bucks, Play-through Cash, and Gold Coins?](https://help.betr.app/en/articles/14425001-what-are-betr-cash-betr-bucks-play-through-cash-and-gold-coins.md): Difference between Betr Bucks, Betr Cash, and Play-through Cash
+- [What are returned EFTs, and what fees and terms apply?](https://help.betr.app/en/articles/16165018-what-are-returned-efts-and-what-fees-and-terms-apply.md): Trustly Return Fee
+- [I got charged from my bank account but I haven‘t played or used the app today, why were the funds taken?](https://help.betr.app/en/articles/9461917-i-got-charged-from-my-bank-account-but-i-haven-t-played-or-used-the-app-today-why-were-the-funds-taken.md): Unauthorized Charge
+- [What are gold coins?](https://help.betr.app/en/articles/12053046-what-are-gold-coins.md): What are they?
+- [Taxes - FAQs - 1099 and Year-End Statements](https://help.betr.app/en/articles/9461928-taxes-faqs-1099-and-year-end-statements.md): Tax information and FAQ's
+- [TAXES - FREQUENTLY ASKED QUESTIONS - W-2G and Year End Statements](https://help.betr.app/en/articles/9461799-taxes-frequently-asked-questions-w-2g-and-year-end-statements.md)
+- [Do I have to file taxes for my winnings?](https://help.betr.app/en/articles/9461912-do-i-have-to-file-taxes-for-my-winnings.md): Tax information
+
+### Promotions & Bonuses
+
+- [Invite-Only Deposit Match 2026 \(Betr Picks\)](https://help.betr.app/en/articles/10003501-invite-only-deposit-match-2026-betr-picks.md)
+- [2025 Special Giveaway \(Betr Picks\)](https://help.betr.app/en/articles/10302752-2025-special-giveaway-betr-picks.md)
+- [Invited Deposit & Get \(Betr Picks\)](https://help.betr.app/en/articles/9462038-invited-deposit-get-betr-picks.md)
+- [Invited Place & Get \(Betr Picks\)](https://help.betr.app/en/articles/9462039-invited-place-get-betr-picks.md)
+- [Can I use an entire bonus at once?](https://help.betr.app/en/articles/9461843-can-i-use-an-entire-bonus-at-once.md): Bonus fund restrictions
+- [Do promotions have a max payout on promotions?](https://help.betr.app/en/articles/9461937-do-promotions-have-a-max-payout-on-promotions.md): Promotion max payout
+- [Is there any playing requirement for the bonus?](https://help.betr.app/en/articles/9461832-is-there-any-playing-requirement-for-the-bonus.md): Bonus fund play through requirement
+- [Where do I find my bonuses?](https://help.betr.app/en/articles/9461794-where-do-i-find-my-bonuses.md): Bonus Funds Location
+- [Invited Play & Get \(Betr Arcade\)](https://help.betr.app/en/articles/12052796-invited-play-get-betr-arcade.md)
+- [Invited Place & Get \(Betr Social Sportsbook Only\)](https://help.betr.app/en/articles/12261011-invited-place-get-betr-social-sportsbook-only.md)
+- [Refer-a-Friend: $20 to both of you \(All Betr Products\)](https://help.betr.app/en/articles/14357255-refer-a-friend-20-to-both-of-you-all-betr-products.md)
+- [Invited Purchase & Get \(Betr Social Casino Only\)](https://help.betr.app/en/articles/14501582-invited-purchase-get-betr-social-casino-only.md)
+- [Summer Rewards \(All States, Opt-in Required\)](https://help.betr.app/en/articles/15655984-summer-rewards-all-states-opt-in-required.md)
+- [I opted into a promo but didn't get credited — what should I check?](https://help.betr.app/en/articles/16056581-i-opted-into-a-promo-but-didn-t-get-credited-what-should-i-check.md): Self-check troubleshooter for players who opted into a promotion but don't see the bonus/reward credited.
+- [Invite-Only Purchase Match 2026 \(Betr Picks\)](https://help.betr.app/en/articles/16220539-invite-only-purchase-match-2026-betr-picks.md)
+- [New Player Offer: Four No Sweat Tokens \(AFTER FIRST DEPOSIT ONLY on Betr Picks\)](https://help.betr.app/en/articles/16645335-new-player-offer-four-no-sweat-tokens-after-first-deposit-only-on-betr-picks.md)
+- [New Player Offer: 1st Purchase Match \(FIRST PURCHASE ONLY on Betr Social Sportsbook\) and No Sweat $200 \(FIRST ENTRY POST FIRST PURCHASE AFTER OPT-IN\)](https://help.betr.app/en/articles/16645477-new-player-offer-1st-purchase-match-first-purchase-only-on-betr-social-sportsbook-and-no-sweat-200-first-entry-post-first-purchase-after-opt-in.md)
+- [NEW PLAYER OFFER: 50% up to 50 1st Purchase Match PLUS Up to 100 First Day Insurance \(Betr Social Casino Only\)](https://help.betr.app/en/articles/16646029-new-player-offer-50-up-to-50-1st-purchase-match-plus-up-to-100-first-day-insurance-betr-social-casino-only.md)
+- [Betr Season Pass \(All States, Opt-in Required\)](https://help.betr.app/en/articles/16833996-betr-season-pass-all-states-opt-in-required.md)
+- [Betr Affiliate Partnership](https://help.betr.app/en/articles/10548068-betr-affiliate-partnership.md): Betr Affiliate Partnership
+- [Does Betr offer a VIP program?](https://help.betr.app/en/articles/9461933-does-betr-offer-a-vip-program.md): Betr VIP program
+
+### Fantasy Sports
+
+- [Mystery Multiplier FAQ's](https://help.betr.app/en/articles/12038328-mystery-multiplier-faq-s.md): Mystery Multiplier Details
+- [What is Race to Place?](https://help.betr.app/en/articles/13870177-what-is-race-to-place.md)
+- [🚨IMPORTANT🚨: Casino Games Not Showing](https://help.betr.app/en/articles/9773961-important-casino-games-not-showing.md): Casino Update
+- [Betr Picks Group Play FAQs](https://help.betr.app/en/articles/9740768-betr-picks-group-play-faqs.md): Everything about Group Play: group placement, scoring, leaderboards, ties, perfect lineups, and payouts.
+- [Stat Rulings FAQ](https://help.betr.app/en/articles/16804911-stat-rulings-faq.md): Answers to specific stat-settlement questions: extra points vs. field goals, MLB total bases, MLB pitcher wins, and overtime stats.
+- [Settlement Timing & Stat Tracking](https://help.betr.app/en/articles/16805117-settlement-timing-stat-tracking.md): Why live stats might lag, and when winnings get credited after a contest ends.
+- [How are selections resulting in a tie handled?](https://help.betr.app/en/articles/10974345-how-are-selections-resulting-in-a-tie-handled.md): Tied Picks & Projections
+- [Selection Settlement Glossary](https://help.betr.app/en/articles/11060810-selection-settlement-glossary.md): What the colors indicate in settled entries
+- [Fantasy Score Calculation](https://help.betr.app/en/articles/9461946-fantasy-score-calculation.md): Betr Picks Fantasy Scoring breakdown
+- [Golf Statistics Overview](https://help.betr.app/en/articles/9461940-golf-statistics-overview.md): Golf Market definitions
+- [Voids, Cancellations & Refunds](https://help.betr.app/en/articles/16804702-voids-cancellations-refunds.md): When a pick or entry gets voided \(game cancelled, line error, injury\) vs. when you can cancel an entry yourself. Links to House Rules for the full policy language.
+- [🚨 BETR INJURY INSURANCE PROMOTIONS 🚑](https://help.betr.app/en/articles/9828715-betr-injury-insurance-promotions.md): NFL, NBA, CFB, MLB & WNBA Promotional Injury Insurance
+- [Betr Picks Pick Types](https://help.betr.app/en/articles/10966853-betr-picks-pick-types.md): Betr Pick Type Explanations
+- [What is the difference between Flex play and Perfect play?](https://help.betr.app/en/articles/16805326-what-is-the-difference-between-flex-play-and-perfect-play.md): Flex Play vs. Perfect Play, the full Flex payout table, how voids and special picks affect your multiplier, and why an entry's format might look different than expected.
+- [What are Edge Combos?](https://help.betr.app/en/articles/10317117-what-are-edge-combos.md): Edge Combos
+- [What are Edge Picks?](https://help.betr.app/en/articles/10810745-what-are-edge-picks.md): Edge Picks
+- [Which states does Betr Picks offer college sports?](https://help.betr.app/en/articles/9828611-which-states-does-betr-picks-offer-college-sports.md): List of states that offer college sports
+- [Betr Ballers Weekly Bonus Drop](https://help.betr.app/en/articles/10478639-betr-ballers-weekly-bonus-drop.md): VIP Bonus Drop
+- [What are Betr bucks and how do I use them?](https://help.betr.app/en/articles/9461957-what-are-betr-bucks-and-how-do-i-use-them.md): Information on Betr Bucks
+- [What are the common reasons for promotion ineligibility in the Betr app?](https://help.betr.app/en/articles/11944192-what-are-the-common-reasons-for-promotion-ineligibility-in-the-betr-app.md): Why a promotion entry might not qualify: opt-in timing, cash vs. Betr Bucks, timing/reuse limits, and combining offers.
+- [Why didn’t I get my Refer-a-friend bonus?](https://help.betr.app/en/articles/9461848-why-didn-t-i-get-my-refer-a-friend-bonus.md): RAF Bonus
+- [What type of promotions do you offer?](https://help.betr.app/en/articles/9461931-what-type-of-promotions-do-you-offer.md): Betr Picks promotions
+- [What is the current sign-up offer?](https://help.betr.app/en/articles/9461828-what-is-the-current-sign-up-offer.md): Current sign-up offers
+- [Do you have a refer-a-friend program?](https://help.betr.app/en/articles/9461844-do-you-have-a-refer-a-friend-program.md): Referral Program
+- [Free Pick Promotions. Can I withdraw the winnings?](https://help.betr.app/en/articles/14547221-free-pick-promotions-can-i-withdraw-the-winnings.md): Where the winnings from a free pick will be
+- [Betr Picks House Rules](https://help.betr.app/en/articles/9461972-betr-picks-house-rules.md): Betr Picks House Rules
+
+### Social Sportsbook
+
+- [Is there a latency delay between the broadcast and the markets?](https://help.betr.app/en/articles/12042920-is-there-a-latency-delay-between-the-broadcast-and-the-markets.md): Latency concern
+- [I made a pre-match wager, but the game got postponed. What happens to my entry?](https://help.betr.app/en/articles/12042931-i-made-a-pre-match-wager-but-the-game-got-postponed-what-happens-to-my-entry.md)
+- [What is a multiplier?](https://help.betr.app/en/articles/12042945-what-is-a-multiplier.md): Information on Multipliers and how they work?
+- [Why was my MLB entry voided after a pitching change?](https://help.betr.app/en/articles/12042961-why-was-my-mlb-entry-voided-after-a-pitching-change.md): MLB voided wager
+- [Will an error count as a hit \(MLB\)?](https://help.betr.app/en/articles/12042973-will-an-error-count-as-a-hit-mlb.md): MLB reached base on an error, is it a hit?
+- [What happens if my game gets rained out or there is a partial finish?](https://help.betr.app/en/articles/12042989-what-happens-if-my-game-gets-rained-out-or-there-is-a-partial-finish.md): MLB game rainout
+- [How do I switch between Betr Cash and Gold Coins in the Social Sportsbook?](https://help.betr.app/en/articles/12053661-how-do-i-switch-between-betr-cash-and-gold-coins-in-the-social-sportsbook.md): Switch between Betr Cash and Gold Coins
+- [Does the Social Sportsbook offer player props?](https://help.betr.app/en/articles/12068888-does-the-social-sportsbook-offer-player-props.md)
+- [Social Sportsbook Market Descriptions](https://help.betr.app/en/articles/9461772-social-sportsbook-market-descriptions.md): MLB, NFL, CFB Market descriptions
+- [Can you delete or cash out of an entry once it is placed?](https://help.betr.app/en/articles/9461873-can-you-delete-or-cash-out-of-an-entry-once-it-is-placed.md): Cash-out/cancel wager
+- [What are Bonus funds?](https://help.betr.app/en/articles/16098757-what-are-bonus-funds.md): Social Sportsbook Bonus Funds
+- [Social Balance Top-up Drops](https://help.betr.app/en/articles/16824150-social-balance-top-up-drops.md): 5000 Gold Coins \(GC\) or a buck in Betr Cash
+- [Sweepstakes Official Rules](https://help.betr.app/en/articles/12022472-sweepstakes-official-rules.md)
+- [Betr Social Sportsbook House Rules](https://help.betr.app/en/articles/13834440-betr-social-sportsbook-house-rules.md)
+
+### Arcade
+
+- [What are the recommended display settings for Betr Arcade?](https://help.betr.app/en/articles/12002754-what-are-the-recommended-display-settings-for-betr-arcade.md): Display Recommendations
+- [What is skill-based gaming?](https://help.betr.app/en/articles/12002780-what-is-skill-based-gaming.md): What makes a game skill based
+- [What happens if I do not find an opponent in Betr Arcade?](https://help.betr.app/en/articles/12012667-what-happens-if-i-do-not-find-an-opponent-in-betr-arcade.md): Arcade
+- [Can I cancel my Betr Arcade entry?](https://help.betr.app/en/articles/12012683-can-i-cancel-my-betr-arcade-entry.md): Arcade entry cancellation rule
+- [How are opponents found in Betr Arcade?](https://help.betr.app/en/articles/12045114-how-are-opponents-found-in-betr-arcade.md): Betr Arcade Matchups
+- [Can I use Betr Bucks in Betr Arcade?](https://help.betr.app/en/articles/14020347-can-i-use-betr-bucks-in-betr-arcade.md): Betr Bucks Arcade
+- [Betr Arcade - House Rules](https://help.betr.app/en/articles/11750326-betr-arcade-house-rules.md): Betr Arcade - House Rules
+
+### Social Casino
+
+- [Gold Coins vs. Betr Cash: How They Work](https://help.betr.app/en/articles/16818214-gold-coins-vs-betr-cash-how-they-work.md): Overview of Gold Coins vs. Betr Cash — what each currency is for, how gameplay mechanics compare, and how to switch between them.
+- [Are the games fair?](https://help.betr.app/en/articles/16818242-are-the-games-fair.md): Social Casino Games
+- [What happens if my game disconnects mid-play?](https://help.betr.app/en/articles/13859315-what-happens-if-my-game-disconnects-mid-play.md)
+- [Why did my balance change without me seeing the result?](https://help.betr.app/en/articles/13859326-why-did-my-balance-change-without-me-seeing-the-result.md)
+- [Do games expire or rotate?](https://help.betr.app/en/articles/13859337-do-games-expire-or-rotate.md)
+- [Are there limits on how much I can play?](https://help.betr.app/en/articles/13859341-are-there-limits-on-how-much-i-can-play.md)
+- [Where can I view my casino gameplay history?](https://help.betr.app/en/articles/13859347-where-can-i-view-my-casino-gameplay-history.md)
+- [What if my Casino game is still open?](https://help.betr.app/en/articles/13978436-what-if-my-casino-game-is-still-open.md)
+- [What if my casino game is not working?](https://help.betr.app/en/articles/16091164-what-if-my-casino-game-is-not-working.md)
+- [What does RTP mean?](https://help.betr.app/en/articles/16090764-what-does-rtp-mean.md): RTP Percentage
+- [Can I practice on the Casino without using Betr Cash?](https://help.betr.app/en/articles/15993663-can-i-practice-on-the-casino-without-using-betr-cash.md): Practice playing Casino games
+- [What type of Casino games do you have?](https://help.betr.app/en/articles/16091190-what-type-of-casino-games-do-you-have.md)
+- [What is Volatility](https://help.betr.app/en/articles/16091223-what-is-volatility.md)
+
+### Prediction Markets
+
+- [Polymarket on Betr: What is a Prediction Market?](https://help.betr.app/en/articles/16701601-polymarket-on-betr-what-is-a-prediction-market.md): Forecasting the Future Predictions and Betr
+- [Predictions on Betr: How Are Prices Calculated?](https://help.betr.app/en/articles/16704783-predictions-on-betr-how-are-prices-calculated.md): Each price you see on Predictions on Betr is set by the order book, landing at the midpoint between the current bid and ask.
+- [Predictions on Betr: How Are Prediction Markets Resolved?](https://help.betr.app/en/articles/16708624-predictions-on-betr-how-are-prediction-markets-resolved.md): Here's how a market's outcome is officially determined once the result becomes clear
+- [Predictions on Betr: How Are Markets Clarified?](https://help.betr.app/en/articles/16727685-predictions-on-betr-how-are-markets-clarified.md): How does Polymarket clarify markets on the Betr App?
+- [Predictions on Betr: What Are Limit Orders?](https://help.betr.app/en/articles/16727692-predictions-on-betr-what-are-limit-orders.md): Prediction limit orders, what are they and how they work
+- [Predictions on Betr: Trading Fees](https://help.betr.app/en/articles/16727714-predictions-on-betr-trading-fees.md): Understanding Fees using Predictions on the Betr App
+- [Predictions on Betr: Does Betr Have Trading Limits?](https://help.betr.app/en/articles/16727734-predictions-on-betr-does-betr-have-trading-limits.md): Will there be limits on trading sizes?
+- [Predictions on Betr: What Are Combos?](https://help.betr.app/en/articles/16728758-predictions-on-betr-what-are-combos.md): Understanding Prediction Combos on the Betr App
+- [Predictions on Betr: Can I Sell Early?](https://help.betr.app/en/articles/16728886-predictions-on-betr-can-i-sell-early.md): You can close your position early
+- [Why do I need to verify my identity for Prediction Markets?](https://help.betr.app/en/articles/16760672-why-do-i-need-to-verify-my-identity-for-prediction-markets.md): Identity verification for Prediction Markets
+
+### Location and Device
+
+- [Why am I having Network connection issues?](https://help.betr.app/en/articles/9461881-why-am-i-having-network-connection-issues.md): Network connection troubleshoot
+- [How do I troubleshoot my Betr app?](https://help.betr.app/en/articles/9461879-how-do-i-troubleshoot-my-betr-app.md): Troubleshooting tips
+- [Can I play if I am not physically in an eligible state?](https://help.betr.app/en/articles/9461971-can-i-play-if-i-am-not-physically-in-an-eligible-state.md): Playing while physically in a different state
+- [Can I use a Proxy or VPN software?](https://help.betr.app/en/articles/9461884-can-i-use-a-proxy-or-vpn-software.md): VPN/Proxy Prohibited
+- [What is Geolocation?](https://help.betr.app/en/articles/9461877-what-is-geolocation.md): Geolocation information
+- [What do I need to do to be geolocated by the app?](https://help.betr.app/en/articles/9461878-what-do-i-need-to-do-to-be-geolocated-by-the-app.md): How to ensure the app can locate you
+- [What if I am located near a state border?](https://help.betr.app/en/articles/9461882-what-if-i-am-located-near-a-state-border.md): Geolocation near state border
+- [Which states does Betr operate in?](https://help.betr.app/en/articles/9461963-which-states-does-betr-operate-in.md): Eligible States for Betr Picks, Arcade
+- [Why am I getting an error when attempting to place an entry?](https://help.betr.app/en/articles/9461965-why-am-i-getting-an-error-when-attempting-to-place-an-entry.md): Errors when attempting to place an entry
+- [Can I play on the web from a computer?](https://help.betr.app/en/articles/9461969-can-i-play-on-the-web-from-a-computer.md): Desktop support
+- [How do I turn on Wi-Fi and Location Services?](https://help.betr.app/en/articles/9461966-how-do-i-turn-on-wi-fi-and-location-services.md): How to turn on wi-fi and location services
+- [Why can’t I place an entry from a state that allows daily fantasy sports \(DFS\)?](https://help.betr.app/en/articles/9461967-why-can-t-i-place-an-entry-from-a-state-that-allows-daily-fantasy-sports-dfs.md): Daily Fantasy Sports \(DFS\)
+- [Why can't I select any picks?](https://help.betr.app/en/articles/9461960-why-can-t-i-select-any-picks.md): Unable to place an entry
+- [New York Contests Information](https://help.betr.app/en/articles/15901398-new-york-contests-information.md)
+
+### Responsible Gaming
+
+- [Can you please remove the Limits that I have set?](https://help.betr.app/en/articles/9461762-can-you-please-remove-the-limits-that-i-have-set.md): Responsible Gaming limits
+- [Responsible Gaming Resources - Fantasy](https://help.betr.app/en/articles/9461889-responsible-gaming-resources-fantasy.md): Responsible Gaming information
+- [What is a reality check?](https://help.betr.app/en/articles/9461769-what-is-a-reality-check.md): Reality Check
+- [I have been released from Timeout, what do I do now?](https://help.betr.app/en/articles/9461768-i-have-been-released-from-timeout-what-do-i-do-now.md): Timeout ended, what next?
+- [What is a Timeout?](https://help.betr.app/en/articles/9461767-what-is-a-timeout.md): Information on Timeouts and how to set one up
+- [How do I Self-exclude from my account?](https://help.betr.app/en/articles/9461764-how-do-i-self-exclude-from-my-account.md): How to self exclude
+- [What is Self-exclusion?](https://help.betr.app/en/articles/9461763-what-is-self-exclusion.md): Self-exclusion information
+- [Can I set a limit for the amount that I play during a certain period of time?](https://help.betr.app/en/articles/9461760-can-i-set-a-limit-for-the-amount-that-i-play-during-a-certain-period-of-time.md): How to set play limit
+- [What if I have a balance in my account when I self-exclude?](https://help.betr.app/en/articles/9461893-what-if-i-have-a-balance-in-my-account-when-i-self-exclude.md): Self-excluded with a balance
+- [What measures are in place to promote Responsible Gaming?](https://help.betr.app/en/articles/9461890-what-measures-are-in-place-to-promote-responsible-gaming.md): Betr's responsible gaming measures
+- [What Responsible Gaming precautions does Betr Picks offer?](https://help.betr.app/en/articles/9461894-what-responsible-gaming-precautions-does-betr-picks-offer.md): Betr Picks Responsible Gaming precautions
+
+### Terms and Conditions
+
+- [Betr Picks - Terms and Conditions](https://help.betr.app/en/articles/9462096-betr-picks-terms-and-conditions.md): Betr Picks Terms and conditions
+- [Betr Arcade - Terms and Conditions](https://help.betr.app/en/articles/11750321-betr-arcade-terms-and-conditions.md): Betr Arcade Terms and Conditions
+- [Betr Social Sportsbook & Casino - Terms and Conditions](https://help.betr.app/en/articles/12020515-betr-social-sportsbook-casino-terms-and-conditions.md)
+
+### Legal
+
+- [Betr Privacy Policy](https://help.betr.app/en/articles/9462118-betr-privacy-policy.md)
